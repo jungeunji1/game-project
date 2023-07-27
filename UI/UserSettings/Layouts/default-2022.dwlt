@@ -99,7 +99,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: 2 by 3
+  m_LastLoadedLayoutName: 
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -127,7 +127,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 50}
   m_MaxSize: {x: 40480, y: 8096}
   vertical: 0
-  controlID: 440
+  controlID: 65
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,8 +220,8 @@ MonoBehaviour:
     y: 0
     width: 344
     height: 722.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -246,8 +246,8 @@ MonoBehaviour:
     y: 0
     width: 444
     height: 722.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -293,7 +293,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ee0ffeffe410feff5411feffe615feff8816feff603efeff2a47feffda47feff4848feff044bfeff4e4bfeff9877feffcc7bfeff907cfeffe888feff0e8cfeff768efeffb88efeffbce3feffecf5feff36f6feffc01affff1a1bfffff41dffffde1effff401fffffa21fffff0420ffff6620ffffc820ffff2a21ffff4e24ffff1429ffff7629ffff0e2affff6a2bffff282cffff662dffffd02dffffcc30ffff103dffff863effff0242ffff424affff964affffda4affffb04cffff1053ffffb453ffff0858ffff4c58ffff3459ffff925dffff366bffff966dffffd86dffffeaecffff4af8ffff9a5a000008600000ac6100003c620000326300008e6400003e6500007667000036680000f26800000e6a0000326a0000d46c0000906d00008e6e000032700000ec710000bc730000f4730000ba7a0000767b0000488000005c81000088820000a4820000f8820000ac850000f085000080870000
+      m_ExpandedIDs: 5c9fffffa69fffff72f0ffffcaf0ffff8af3ffff3af4ffffaaf5ffff0ef6ffff1af8ffff5af8ffff2afbffff885d0000925e0000ee5f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -411,7 +411,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Resource
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -419,16 +419,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Resource
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\\uCD5C\uC724\uC7AC\\Desktop\\\uAC1C\uBC1C\\1.\uC720\uB2C8\uD2F0\\3.\uD504\uB85C\uC81D\uD2B8\\game_project\\UI"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e5a0000
-    m_LastClickedID: 23086
-    m_ExpandedIDs: 00000000265a000000ca9a3b
+    m_SelectedIDs: 3a5b0000
+    m_LastClickedID: 23354
+    m_ExpandedIDs: 00000000305b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -456,7 +456,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000265a000000ca9a3b
+    m_ExpandedIDs: 00000000305b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,7 +508,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 110.20001}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
@@ -929,9 +929,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 672.3563, y: 1573.8563, z: 1.7738819}
+    m_Target: {x: 243.73047, y: 167.49017, z: 4.6462135}
     speed: 2
-    m_Value: {x: 675.2734, y: 1566.7162, z: 2.2562835}
+    m_Value: {x: 243.73047, y: 167.49017, z: 4.6462135}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -979,11 +979,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: -0, y: 0, z: -0, w: -1}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1120.2368
+    m_Target: 137.71098
     speed: 2
-    m_Value: 1071.997
+    m_Value: 137.71098
   m_Ortho:
     m_Target: 1
     speed: 2

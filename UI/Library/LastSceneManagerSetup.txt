@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/GameLobby.unity
+=======
+- path: Assets/Scenes/Char.unity
+>>>>>>> workspace_choi
   isLoaded: 1
   isActive: 1
   isSubScene: 0

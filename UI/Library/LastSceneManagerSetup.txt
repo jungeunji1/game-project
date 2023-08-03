@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/RoomR.unity
+- path: Assets/Scenes/MyProfile.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
